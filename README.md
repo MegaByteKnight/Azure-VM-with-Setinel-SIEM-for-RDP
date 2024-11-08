@@ -114,7 +114,7 @@ Screenshots
 
 Here are some screenshots from the project:
 
-_Replace the image paths with your actual screenshots stored in the images/ directory._
+![Microsoft Sentinel Analytics](https://github.com/MegaByteKnight/Building-a-SOC-with-Azure-and-Microsoft-Sentinel/blob/main/images/Sentinel_analytics.jpg)
 
 References
 ----------
