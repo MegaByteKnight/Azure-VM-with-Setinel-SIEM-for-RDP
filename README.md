@@ -114,7 +114,7 @@ Screenshots
 
 Here are some screenshots from the project:
 
-![Microsoft Sentinel Analytics](https://github.com/MegaByteKnight/Building-a-SOC-with-Azure-and-Microsoft-Sentinel/blob/main/images/Sentinel_analytics.jpg)
+![Microsoft Sentinel Analytics](https://github.com/MegaByteKnight/Building-a-SOC-with-Azure-and-Microsoft-Sentinel/blob/main/images/sentinel%20analytics.jpg)
 
 References
 ----------
